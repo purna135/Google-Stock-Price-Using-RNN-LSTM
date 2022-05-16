@@ -1,0 +1,71 @@
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+
+[NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('execution_count' was unexpected)
+
+
+
+Failed validating 'additionalProperties' in markdown_cell:
+
+
+
+On instance['cells'][0]:
+
+{'cell_type': 'markdown',
+
+ 'execution_count': None,
+
+ 'metadata': {},
+
+ 'source': '# Stage 1: Data Aquisition and Insight Creation.\n'
+
+           '\n'
+
+           '### Role of li...'}
+
+[NbConvertApp] Executing notebook with kernel: python3
+
+2020-06-24 13:25:03.959013: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2300000000 Hz
+
+2020-06-24 13:25:03.959627: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x556fbee7f320 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+
+2020-06-24 13:25:03.959667: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+
+[NbConvertApp] Writing 274232 bytes to __notebook__.ipynb
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+
+[NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('execution_count' was unexpected)
+
+
+
+Failed validating 'additionalProperties' in markdown_cell:
+
+
+
+On instance['cells'][0]:
+
+{'cell_type': 'markdown',
+
+ 'execution_count': None,
+
+ 'metadata': {},
+
+ 'source': '# Stage 1: Data Aquisition and Insight Creation.\n'
+
+           '\n'
+
+           '### Role of li...'}
+
+[NbConvertApp] Support files will be in __results___files/
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Writing 346501 bytes to __results__.html
